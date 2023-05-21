@@ -67,7 +67,7 @@ button{
 }
 .icons{
     margin-top: 2%;
-    margin-left: 25%;
+    margin-left: 10%;
     display: flex;
     gap: 20px;
     font-size: 18px;
@@ -95,13 +95,10 @@ list-style: none;
     height: auto;
     width: 1350px;
   
-}
-.banner img{
-    height: 300px;
-    width: 400px;
-  
-}
-.banner{
-    gap: 30px;
-    display: flex;
-}
+ }
+ .poster img{
+    margin-left: 20%;
+    height: 80px;
+    width: auto;
+    margin-top: 2%;
+ }
